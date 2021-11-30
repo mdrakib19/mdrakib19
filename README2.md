@@ -13,12 +13,25 @@ If you have a project I can help with, please get in touch.
 
 Skills: Swift / SwiftUI / Objective-C / UiKit / Kingfisher / Alamofire / API integration / WKWebView / Store Kit / Realm / Core Data / In-App purchase / In-App search / Push Notification / Background services / Firebase Cloud Firestore / Document Directory / Facebook SDK / Google SDK / Cocoapods / Carthage / Image Processing / Cloud kit / ReplayKit / AVKit / Extensions
 
-- 🔭 I’m currently working on [an Affirmations app](https://cutt.ly/gT7xV3Z) 
-- 🌱 I’m currently learning Flutter and SwiftUI(Advance) 
-- 👯 I’m looking to collaborate on some new exiting projects 
-- 💬 Ask me about iOS, Swift & SwiftUI 
-- 📫 How to reach me: mdrakib19@gmail.com or check out [My Portfoli](https://www.rakibulhasan.dev) 
-- ⚡ Fun fact: I think coding is fun😄 enough when it is working as expectation 
+- 🔭 I’m currently working on [Affirmations](https://cutt.ly/gT7xV3Z)
+
+- 🌱 I’m currently learning **Flutter and SwiftUI(Advance)**
+
+- 👯 I'm looking to collaborate with **some new exiting projects**
+
+- 👀 I'm looking to help you with **your next iOS application project**
+
+- 👨‍💻 Some of my projects are available at [https://www.rakibulhasan.dev](https://www.rakibulhasan.dev)
+
+- 🤝 You can hire me in Upwork [https://www.upwork.com/freelancers/rakibulhasan541](https://www.upwork.com/freelancers/rakibulhasan541)
+
+- 💬 Ask me anything about **iOS, Swift & SwiftUI**
+
+- 📫 Reach me at **mdrakib19@gmail.com or visit https://www.rakibulhasan.dev**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1T-EtGPWg73XR7pyR80cL_pQHrAcmF6kA/view?usp=sharing](https://drive.google.com/file/d/1T-EtGPWg73XR7pyR80cL_pQHrAcmF6kA/view?usp=sharing)
+
+- ⚡ Fun fact **I think coding is fun😄 enough when it is working as expectation** 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mdrakib19)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rakibul-hasan-bbb489147/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://rakibulhasan.dev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/upwork.svg' alt='upwork' height='40'>](https://www.upwork.com/freelancers/rakibulhasan541)  
