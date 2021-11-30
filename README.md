@@ -1,25 +1,21 @@
 <h1 align="center">I am Rakibul Hasan</h1>
 <h3 align="center">A passionate iOS App Developer || Swift Expert || Competitive Programmer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdrakib19&label=Profile%20views&color=0e75b6&style=flat" alt="mdrakib19" /> </p>
+- 🔭 I’m currently working on [Affirmation App.](https://cutt.ly/gT7xV3Z)
 
-- 🔭 I’m currently working on [Affirmations](https://cutt.ly/gT7xV3Z)
+- 🌱 I’m currently learning **Flutter and SwiftUI(Advance).**
 
-- 🌱 I’m currently learning **Flutter and SwiftUI(Advance)**
+- 👯 I'm looking to collaborate with **some new exiting projects.**
 
-- 👯 I'm looking to collaborate with **some new exiting projects**
+- 👀 I'm looking to help you with **your next iOS application project.**
 
-- 👀 I'm looking to help you with **your next iOS application project**
+- 👨‍💻 Some of my projects are available [here.](https://www.rakibulhasan.dev)
 
-- 👨‍💻 Some of my projects are available [here](https://www.rakibulhasan.dev)
-
-- 🤝 You can hire me in [Upwork](https://www.upwork.com/freelancers/rakibulhasan541)
+- 🤝 You can hire me on [Upwork](https://www.upwork.com/freelancers/rakibulhasan541)
 
 - 💬 Ask me anything about **iOS, Swift & SwiftUI**
 
-- 📫 Reach me at **mdrakib19@gmail.com or visit https://www.rakibulhasan.dev**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1T-EtGPWg73XR7pyR80cL_pQHrAcmF6kA/view?usp=sharing](https://drive.google.com/file/d/1T-EtGPWg73XR7pyR80cL_pQHrAcmF6kA/view?usp=sharing)
+- 📄 Know about my experiences with my [resume](https://drive.google.com/file/d/1T-EtGPWg73XR7pyR80cL_pQHrAcmF6kA/view?usp=sharing)
 
 - ⚡ Fun fact **I think coding is fun😄 enough when it is working as expectation**
 
@@ -58,3 +54,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdrakib19&show_icons=true&locale=en" alt="mdrakib19" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdrakib19&" alt="mdrakib19" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdrakib19&label=Profile%20views&color=0e75b6&style=flat" alt="mdrakib19" /> </p>
