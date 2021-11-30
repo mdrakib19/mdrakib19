@@ -11,9 +11,9 @@
 
 - 👀 I'm looking to help you with **your next iOS application project**
 
-- 👨‍💻 Some of my projects are available at [https://www.rakibulhasan.dev](https://www.rakibulhasan.dev)
+- 👨‍💻 Some of my projects are available [here](https://www.rakibulhasan.dev)
 
-- 🤝 You can hire me in Upwork [https://www.upwork.com/freelancers/rakibulhasan541](https://www.upwork.com/freelancers/rakibulhasan541)
+- 🤝 You can hire me in [Upwork](https://www.upwork.com/freelancers/rakibulhasan541)
 
 - 💬 Ask me anything about **iOS, Swift & SwiftUI**
 
